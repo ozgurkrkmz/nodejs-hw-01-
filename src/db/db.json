@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bf00c4f1-8f4d-441b-b6df-de1964e059ff",
+    "name": "Dolores Hauck",
+    "phone": "324.293.2154 x395",
+    "email": "Merlin.Gottlieb@gmail.com",
+    "job": "Investor Communications Manager"
+  },
+  {
+    "id": "259a9e04-1f81-4f33-8bf6-6057875695ea",
+    "name": "Jacob Gislason",
+    "phone": "1-502-494-1194 x8380",
+    "email": "Darby_Bartoletti@hotmail.com",
+    "job": "Customer Metrics Liaison"
+  },
+  {
+    "id": "3d9aa9f5-0d4a-481f-a349-8c68b5d61f77",
+    "name": "Leonard Kilback",
+    "phone": "1-344-621-8544 x94748",
+    "email": "Lela51@gmail.com",
+    "job": "Internal Infrastructure Assistant"
+  },
+  {
+    "id": "ce4ec072-987b-4652-9a2a-67fc4267d1cb",
+    "name": "Kristopher Frami-Padberg Sr.",
+    "phone": "(482) 816-8020",
+    "email": "Danika22@gmail.com",
+    "job": "Legacy Intranet Supervisor"
+  },
+  {
+    "id": "14e7c845-d1e4-4b44-a51d-bc519f5ee118",
+    "name": "Rodolfo Runte",
+    "phone": "716.281.6317",
+    "email": "Jean_Barton@yahoo.com",
+    "job": "Human Usability Producer"
+  }
+]
